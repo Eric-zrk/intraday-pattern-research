@@ -105,4 +105,4 @@ intraday-patterns predict --checkpoint runs/ic_hybrid/model.pt --history data/ra
 
 使用 [tslearn KShape](https://tslearn.readthedocs.io/en/stable/gen_modules/clustering/tslearn.clustering.KShape.html)、[PyTorch](https://pytorch.org/docs/stable/index.html)、pandas、NumPy、scikit-learn 等工具。上游依赖遵循各自许可。
 
-尚未为本项目授予开源使用许可。公开展示前可按自己的意愿选择许可证；详情见 [许可说明](docs/LICENSING.md)。仓库不附真实行情、供应商账号或密钥。
+本项目代码采用 MIT 许可证，详见 [LICENSE](LICENSE)。上游依赖遵循各自许可证，外部数据遵循其供应商的授权条款。更多信息见[许可说明](docs/LICENSING.md)。仓库不附真实行情、供应商账号或密钥。
